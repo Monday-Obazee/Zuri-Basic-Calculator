@@ -18,7 +18,6 @@ if (firstNumber === "" || secondNumber === "") {
   alert("Oga check watin you day do abeg");
 }
 
-let result =
-  firstNumber + " " + operator + " " + secondNumber + " = " + finalResult;
+let result = "Your final answer na" + " " + finalResult;
 
 alert(result);
